@@ -1,6 +1,7 @@
 ### Hi there 👋, Malshi Sathsarani
 #### design and developer
-![image](https://github.com/malshisathsarani/malshisathsarani/assets/122073233/f615db29-557c-4a56-962e-58bc021dc1b3)
+![image](https://github.com/malshisathsarani/malshisathsarani/assets/122073233/a0dbe05a-d65d-4a3d-b9a0-534d18121166)
+
 
 
 
