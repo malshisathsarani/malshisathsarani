@@ -1,6 +1,7 @@
 ### Hi there 👋, Malshi Sathsarani
 #### design and developer
-![image](https://github.com/malshisathsarani/malshisathsarani/assets/122073233/eb24246c-8c50-4ee2-9ad2-0e9d00551aa0)
+![image](https://github.com/malshisathsarani/malshisathsarani/assets/122073233/c16cef7c-ce82-42ca-8d61-abcd9f87e1eb)
+
 
 
 I made this project just for fun, it allows me to create nice and simple GitHub Readme files. 
